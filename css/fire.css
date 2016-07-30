@@ -1,0 +1,19 @@
+.content-section-grey {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+.navbar-default.affix, .affix-top {
+    background-color: #bf2c16;
+  }
+
+  ul.nav.navbar-nav.navbar-right a {
+    color: white;
+  }
+
+.navbar-default.affix .navbar-header .navbar-brand, .affix-top {
+  color:white;
+}
+
+.navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
+  background-color:ghostwhite
+}
