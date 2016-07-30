@@ -17,3 +17,14 @@
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
   background-color:ghostwhite
 }
+
+
+div.header-content {
+  padding: 25px;
+  background-color: rgba(34, 34, 34, 0.5);
+}
+
+h1#homeHeading {
+  font-size:7rem;
+  color:white;
+}
