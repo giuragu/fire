@@ -20,11 +20,11 @@
 
 
 div.header-content {
-  padding: 25px;
   background-color: rgba(34, 34, 34, 0.5);
 }
 
 h1#homeHeading {
   font-size:4rem;
   color:white;
+  padding: 25px;
 }
