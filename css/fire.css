@@ -28,3 +28,7 @@ h1#homeHeading {
   color:white;
   padding: 25px;
 }
+
+.lead {
+  line-height: 1.7em;
+}
