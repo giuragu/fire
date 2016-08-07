@@ -32,3 +32,7 @@ h1#homeHeading {
 .lead {
   line-height: 1.7em;
 }
+
+.navbar-default .navbar-header .navbar-toggle {
+    color: #ffffff;
+}
